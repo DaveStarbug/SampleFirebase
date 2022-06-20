@@ -5,9 +5,12 @@ Hi
 you can send FCM messages through this API
 
 https://fcm.googleapis.com/fcm/send
+
 Content-Type:application/json
-Authorization:key=AIzaSyZ-1u...0GBYzPu7Udno5aA  // You can get the server key (AIzaSyZ-1u...0GBYzPu7Udno5aA),
-                                                //from firebase console: Your project -> settings -> Project settings -> Cloud messaging -> Server Key
+
+Authorization:key=AIzaSyZ-1u...0GBYzPu7Udno5aA 
+// You can get the server key (AIzaSyZ-1u...0GBYzPu7Udno5aA),
+//from firebase console: Your project -> settings -> Project settings -> Cloud messaging -> Server Key
 
 {"notification" : {
 "title": "notification title",
