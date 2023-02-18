@@ -1,8 +1,6 @@
 # SampleFirebase
 
-Hi
-
-you can send FCM messages through this API
+send FCM messages through below API
 
 https://fcm.googleapis.com/fcm/send
 
